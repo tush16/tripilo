@@ -19,3 +19,31 @@ This application is richly built with astonishing features such as rating, revie
 | PATCH   | /api/v1/tours/:tourId                                    | Private |
 | DELETE  | /api/v1/tours/:tourId                                    | Private |
 
+
+## Technologies
+
+- Node.js
+- Express.js
+- MongoDB
+- Mongoose
+- and other commonly used back-end implementations
+
+## Prerequisites
+
+- [npm](https://www.npmjs.com/)
+- [mongoose](https://mongoosejs.com/)
+
+## Cloning this project repository
+
+`git clone https://github.com/tush16/tripilo.git`
+
+## Installing dependencies
+
+`nom install`
+
+## Running this app locally
+
+- In development mode: `npm start:dev`
+- In production mode: `npm start:prod`
+- Server should be running on port 3000
+
