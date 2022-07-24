@@ -54,4 +54,6 @@ Users can write only one review for any tour they book.
 - In development mode: `npm start:dev`
 - In production mode: `npm start:prod`
 - Server should be running on port 3000
+## Developed By
 
+- [@Tushar choudhary](https://www.github.com/tush16)
